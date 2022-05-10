@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react-native": "^0.68.2",
     "react-vr-cli": "^0.3.6"
   }
 }
